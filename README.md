@@ -3,7 +3,7 @@
 This project analyzes the AdventureWorks2022 database, which represents a global company engaged in the manufacture and sale of bicycles. The goal is to evaluate business performance in key areas such as sales, customers, products, and employee activity.
 
 
-Dataset:
+**Dataset:**
 
 https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=ssms
 
@@ -50,17 +50,7 @@ Identification of top-performing employees.
 
 
 
-
-
-
-
 **Personal Project Goals:**
 
 The goal of this project was to apply SQL knowledge in a realistic business context, work with relational data models and complex queries and develop interactive dashboards to facilitate decision-making.
 
-
-Author
-
-Araceli Bejar
-
-GitHub: https://github.com/aracelivejar
