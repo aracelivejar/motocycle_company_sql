@@ -41,16 +41,29 @@ Identification of top-performing employees.
 
 
 
-
-
-
-
-
-
-
-
-
 **Personal Project Goals:**
 
 The goal of this project was to apply SQL knowledge in a realistic business context, work with relational data models and complex queries and develop interactive dashboards to facilitate decision-making.
+
+
+
+
+## Dashboard Preview 
+
+### Top Customers Revenue
+
+![Top Customers Revenue](top_customers_dashboard.png)
+
+
+### Product Performance
+![Product Performance](product_performance_dashboard.png)
+
+### Sales Trend by Territory
+![Sales Trend by Territory](sales.trendbyterritory_dashboard.png)
+
+### Sales Trends by Year and Month
+![Top Customers Revenue](sales.trendsY_m.dashboard.png)
+
+
+
 
